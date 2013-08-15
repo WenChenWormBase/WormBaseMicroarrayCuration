@@ -1,4 +1,6 @@
 
+//This is about how to run the script.
+
 Original Data: 
 GSE16405_family.soft
 
